@@ -9,7 +9,11 @@
   "author": "Kris",
   "license": "ISC",
   "dependencies": {
+    "del": "^7.1.0",
     "gulp": "^5.0.0",
     "gulp-cli": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp-rimraf": "^1.0.0"
   }
 }
